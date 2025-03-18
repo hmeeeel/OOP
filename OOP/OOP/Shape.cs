@@ -13,7 +13,7 @@ namespace OOP
         public int PenWidth { get; set; }
 
         public Point PositionStart { get; set; }
-        public Point PositionEnd { get; set; }
+
 
         public abstract void Draw(Graphics g);
 

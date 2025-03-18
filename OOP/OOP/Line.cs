@@ -8,7 +8,7 @@ namespace OOP
 {
     public class Line : Shape
     {
-        
+        public Point PositionEnd { get; set; }
         public Line(Color color, int width, Point start, Point end) {
             this.PenColor = color;
             this.PenWidth = width;

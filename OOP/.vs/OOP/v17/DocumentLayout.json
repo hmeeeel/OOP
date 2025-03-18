@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|c:\\users\\\u0430\u043D\u043D\u0430\\desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\oop\\oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|solutionrelative:oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|solutionrelative:oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|c:\\users\\\u0430\u043D\u043D\u0430\\desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\oop\\oop\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|solutionrelative:oop\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|c:\\users\\\u0430\u043D\u043D\u0430\\desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\oop\\oop\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|solutionrelative:oop\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|c:\\users\\\u0430\u043D\u043D\u0430\\desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\oop\\oop\\rectanglex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|solutionrelative:oop\\rectanglex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|c:\\users\\\u0430\u043D\u043D\u0430\\desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\oop\\oop\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|solutionrelative:oop\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|c:\\users\\\u0430\u043D\u043D\u0430\\desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\oop\\oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|solutionrelative:oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|c:\\users\\\u0430\u043D\u043D\u0430\\desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\oop\\oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|solutionrelative:oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|c:\\users\\\u0430\u043D\u043D\u0430\\desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\oop\\oop\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5F9B7-A512-4445-9337-61A0BA895286}|OOP\\OOP.csproj|solutionrelative:oop\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,46 +46,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Ellipse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\Ellipse.cs",
+              "RelativeDocumentMoniker": "OOP\\Ellipse.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\Ellipse.cs",
+              "RelativeToolTip": "OOP\\Ellipse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:23:52.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RectangleX.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\RectangleX.cs",
+              "RelativeDocumentMoniker": "OOP\\RectangleX.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\RectangleX.cs",
+              "RelativeToolTip": "OOP\\RectangleX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:55:24.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\Rectangle.cs",
+              "RelativeDocumentMoniker": "OOP\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\Rectangle.cs",
+              "RelativeToolTip": "OOP\\Rectangle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:45:58.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\Form1.cs",
               "RelativeDocumentMoniker": "OOP\\Form1.cs",
               "ToolTip": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\Form1.cs",
               "RelativeToolTip": "OOP\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T09:00:44.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Line.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\Line.cs",
               "RelativeDocumentMoniker": "OOP\\Line.cs",
               "ToolTip": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\Line.cs",
               "RelativeToolTip": "OOP\\Line.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T08:41:38.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\Shape.cs",
               "RelativeDocumentMoniker": "OOP\\Shape.cs",
               "ToolTip": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\Shape.cs",
               "RelativeToolTip": "OOP\\Shape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T08:39:12.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u043D\u0430\\Desktop\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\OOP\\OOP\\Form1.cs",
               "RelativeDocumentMoniker": "OOP\\Form1.cs",
